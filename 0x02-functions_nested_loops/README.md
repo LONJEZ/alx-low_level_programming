@@ -1,0 +1,1 @@
+**In this directory we discuss about functions in c**
